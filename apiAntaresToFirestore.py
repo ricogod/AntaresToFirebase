@@ -20,7 +20,7 @@ url = "https://platform.antares.id:8443/~/antares-cse/antares-id/TempHumid/R720c
 
 # Headers for Antares API
 headers = {
-    'X-M2M-Origin': 'da37eb47e138101c:0a988de48178d124', # ganti ini dengan secret key antares
+    'X-M2M-Origin': 'secret-key-antares', # ganti ini dengan secret key antares
     'Content-Type': 'application/json;ty=4',
     'Accept': 'application/json'
 }
